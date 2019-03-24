@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5E9C-3F45
+
+ Directory of C:\Users\kisho\Desktop\GIT project
+
+03/24/2019  02:55 PM    <DIR>          .
+03/24/2019  02:55 PM    <DIR>          ..
+03/24/2019  02:55 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  38,653,566,976 bytes free
